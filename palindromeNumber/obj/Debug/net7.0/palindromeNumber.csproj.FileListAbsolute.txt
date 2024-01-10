@@ -1,0 +1,15 @@
+/home/abdul/5priv/leetCode/palindromeNumber/bin/Debug/net7.0/palindromeNumber
+/home/abdul/5priv/leetCode/palindromeNumber/bin/Debug/net7.0/palindromeNumber.deps.json
+/home/abdul/5priv/leetCode/palindromeNumber/bin/Debug/net7.0/palindromeNumber.runtimeconfig.json
+/home/abdul/5priv/leetCode/palindromeNumber/bin/Debug/net7.0/palindromeNumber.dll
+/home/abdul/5priv/leetCode/palindromeNumber/bin/Debug/net7.0/palindromeNumber.pdb
+/home/abdul/5priv/leetCode/palindromeNumber/obj/Debug/net7.0/palindromeNumber.csproj.AssemblyReference.cache
+/home/abdul/5priv/leetCode/palindromeNumber/obj/Debug/net7.0/palindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdul/5priv/leetCode/palindromeNumber/obj/Debug/net7.0/palindromeNumber.AssemblyInfoInputs.cache
+/home/abdul/5priv/leetCode/palindromeNumber/obj/Debug/net7.0/palindromeNumber.AssemblyInfo.cs
+/home/abdul/5priv/leetCode/palindromeNumber/obj/Debug/net7.0/palindromeNumber.csproj.CoreCompileInputs.cache
+/home/abdul/5priv/leetCode/palindromeNumber/obj/Debug/net7.0/palindromeNumber.dll
+/home/abdul/5priv/leetCode/palindromeNumber/obj/Debug/net7.0/refint/palindromeNumber.dll
+/home/abdul/5priv/leetCode/palindromeNumber/obj/Debug/net7.0/palindromeNumber.pdb
+/home/abdul/5priv/leetCode/palindromeNumber/obj/Debug/net7.0/palindromeNumber.genruntimeconfig.cache
+/home/abdul/5priv/leetCode/palindromeNumber/obj/Debug/net7.0/ref/palindromeNumber.dll
