@@ -1,0 +1,15 @@
+/home/abdul/5priv/leetCode/romanToInteger/bin/Debug/net7.0/romanToInteger
+/home/abdul/5priv/leetCode/romanToInteger/bin/Debug/net7.0/romanToInteger.deps.json
+/home/abdul/5priv/leetCode/romanToInteger/bin/Debug/net7.0/romanToInteger.runtimeconfig.json
+/home/abdul/5priv/leetCode/romanToInteger/bin/Debug/net7.0/romanToInteger.dll
+/home/abdul/5priv/leetCode/romanToInteger/bin/Debug/net7.0/romanToInteger.pdb
+/home/abdul/5priv/leetCode/romanToInteger/obj/Debug/net7.0/romanToInteger.csproj.AssemblyReference.cache
+/home/abdul/5priv/leetCode/romanToInteger/obj/Debug/net7.0/romanToInteger.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdul/5priv/leetCode/romanToInteger/obj/Debug/net7.0/romanToInteger.AssemblyInfoInputs.cache
+/home/abdul/5priv/leetCode/romanToInteger/obj/Debug/net7.0/romanToInteger.AssemblyInfo.cs
+/home/abdul/5priv/leetCode/romanToInteger/obj/Debug/net7.0/romanToInteger.csproj.CoreCompileInputs.cache
+/home/abdul/5priv/leetCode/romanToInteger/obj/Debug/net7.0/romanToInteger.dll
+/home/abdul/5priv/leetCode/romanToInteger/obj/Debug/net7.0/refint/romanToInteger.dll
+/home/abdul/5priv/leetCode/romanToInteger/obj/Debug/net7.0/romanToInteger.pdb
+/home/abdul/5priv/leetCode/romanToInteger/obj/Debug/net7.0/romanToInteger.genruntimeconfig.cache
+/home/abdul/5priv/leetCode/romanToInteger/obj/Debug/net7.0/ref/romanToInteger.dll
