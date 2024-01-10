@@ -44,3 +44,7 @@ int[] TwoSum(int[] nums, int target)
 
     return result;
 }
+
+
+// Runtime: 135ms
+// Memory Usage: 47.72 MB
