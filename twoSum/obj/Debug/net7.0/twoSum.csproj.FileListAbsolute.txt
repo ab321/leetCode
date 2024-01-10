@@ -1,0 +1,15 @@
+/home/abdul/5priv/leetCode/twoSum/bin/Debug/net7.0/twoSum
+/home/abdul/5priv/leetCode/twoSum/bin/Debug/net7.0/twoSum.deps.json
+/home/abdul/5priv/leetCode/twoSum/bin/Debug/net7.0/twoSum.runtimeconfig.json
+/home/abdul/5priv/leetCode/twoSum/bin/Debug/net7.0/twoSum.dll
+/home/abdul/5priv/leetCode/twoSum/bin/Debug/net7.0/twoSum.pdb
+/home/abdul/5priv/leetCode/twoSum/obj/Debug/net7.0/twoSum.csproj.AssemblyReference.cache
+/home/abdul/5priv/leetCode/twoSum/obj/Debug/net7.0/twoSum.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdul/5priv/leetCode/twoSum/obj/Debug/net7.0/twoSum.AssemblyInfoInputs.cache
+/home/abdul/5priv/leetCode/twoSum/obj/Debug/net7.0/twoSum.AssemblyInfo.cs
+/home/abdul/5priv/leetCode/twoSum/obj/Debug/net7.0/twoSum.csproj.CoreCompileInputs.cache
+/home/abdul/5priv/leetCode/twoSum/obj/Debug/net7.0/twoSum.dll
+/home/abdul/5priv/leetCode/twoSum/obj/Debug/net7.0/refint/twoSum.dll
+/home/abdul/5priv/leetCode/twoSum/obj/Debug/net7.0/twoSum.pdb
+/home/abdul/5priv/leetCode/twoSum/obj/Debug/net7.0/twoSum.genruntimeconfig.cache
+/home/abdul/5priv/leetCode/twoSum/obj/Debug/net7.0/ref/twoSum.dll
