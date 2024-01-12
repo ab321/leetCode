@@ -1,0 +1,15 @@
+/home/abdul/5priv/leetCode/removeElement/bin/Debug/net7.0/removeElement
+/home/abdul/5priv/leetCode/removeElement/bin/Debug/net7.0/removeElement.deps.json
+/home/abdul/5priv/leetCode/removeElement/bin/Debug/net7.0/removeElement.runtimeconfig.json
+/home/abdul/5priv/leetCode/removeElement/bin/Debug/net7.0/removeElement.dll
+/home/abdul/5priv/leetCode/removeElement/bin/Debug/net7.0/removeElement.pdb
+/home/abdul/5priv/leetCode/removeElement/obj/Debug/net7.0/removeElement.csproj.AssemblyReference.cache
+/home/abdul/5priv/leetCode/removeElement/obj/Debug/net7.0/removeElement.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdul/5priv/leetCode/removeElement/obj/Debug/net7.0/removeElement.AssemblyInfoInputs.cache
+/home/abdul/5priv/leetCode/removeElement/obj/Debug/net7.0/removeElement.AssemblyInfo.cs
+/home/abdul/5priv/leetCode/removeElement/obj/Debug/net7.0/removeElement.csproj.CoreCompileInputs.cache
+/home/abdul/5priv/leetCode/removeElement/obj/Debug/net7.0/removeElement.dll
+/home/abdul/5priv/leetCode/removeElement/obj/Debug/net7.0/refint/removeElement.dll
+/home/abdul/5priv/leetCode/removeElement/obj/Debug/net7.0/removeElement.pdb
+/home/abdul/5priv/leetCode/removeElement/obj/Debug/net7.0/removeElement.genruntimeconfig.cache
+/home/abdul/5priv/leetCode/removeElement/obj/Debug/net7.0/ref/removeElement.dll
