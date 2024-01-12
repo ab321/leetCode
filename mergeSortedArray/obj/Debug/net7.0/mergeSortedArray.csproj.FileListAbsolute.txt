@@ -1,0 +1,15 @@
+/home/abdul/5priv/leetCode/mergeSortedArray/bin/Debug/net7.0/mergeSortedArray
+/home/abdul/5priv/leetCode/mergeSortedArray/bin/Debug/net7.0/mergeSortedArray.deps.json
+/home/abdul/5priv/leetCode/mergeSortedArray/bin/Debug/net7.0/mergeSortedArray.runtimeconfig.json
+/home/abdul/5priv/leetCode/mergeSortedArray/bin/Debug/net7.0/mergeSortedArray.dll
+/home/abdul/5priv/leetCode/mergeSortedArray/bin/Debug/net7.0/mergeSortedArray.pdb
+/home/abdul/5priv/leetCode/mergeSortedArray/obj/Debug/net7.0/mergeSortedArray.csproj.AssemblyReference.cache
+/home/abdul/5priv/leetCode/mergeSortedArray/obj/Debug/net7.0/mergeSortedArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdul/5priv/leetCode/mergeSortedArray/obj/Debug/net7.0/mergeSortedArray.AssemblyInfoInputs.cache
+/home/abdul/5priv/leetCode/mergeSortedArray/obj/Debug/net7.0/mergeSortedArray.AssemblyInfo.cs
+/home/abdul/5priv/leetCode/mergeSortedArray/obj/Debug/net7.0/mergeSortedArray.csproj.CoreCompileInputs.cache
+/home/abdul/5priv/leetCode/mergeSortedArray/obj/Debug/net7.0/mergeSortedArray.dll
+/home/abdul/5priv/leetCode/mergeSortedArray/obj/Debug/net7.0/refint/mergeSortedArray.dll
+/home/abdul/5priv/leetCode/mergeSortedArray/obj/Debug/net7.0/mergeSortedArray.pdb
+/home/abdul/5priv/leetCode/mergeSortedArray/obj/Debug/net7.0/mergeSortedArray.genruntimeconfig.cache
+/home/abdul/5priv/leetCode/mergeSortedArray/obj/Debug/net7.0/ref/mergeSortedArray.dll
