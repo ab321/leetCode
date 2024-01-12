@@ -1,0 +1,15 @@
+/home/abdul/5priv/leetCode/removeDuplicatesFromSortedArrayII/bin/Debug/net7.0/removeDuplicatesFromSortedArrayII
+/home/abdul/5priv/leetCode/removeDuplicatesFromSortedArrayII/bin/Debug/net7.0/removeDuplicatesFromSortedArrayII.deps.json
+/home/abdul/5priv/leetCode/removeDuplicatesFromSortedArrayII/bin/Debug/net7.0/removeDuplicatesFromSortedArrayII.runtimeconfig.json
+/home/abdul/5priv/leetCode/removeDuplicatesFromSortedArrayII/bin/Debug/net7.0/removeDuplicatesFromSortedArrayII.dll
+/home/abdul/5priv/leetCode/removeDuplicatesFromSortedArrayII/bin/Debug/net7.0/removeDuplicatesFromSortedArrayII.pdb
+/home/abdul/5priv/leetCode/removeDuplicatesFromSortedArrayII/obj/Debug/net7.0/removeDuplicatesFromSortedArrayII.csproj.AssemblyReference.cache
+/home/abdul/5priv/leetCode/removeDuplicatesFromSortedArrayII/obj/Debug/net7.0/removeDuplicatesFromSortedArrayII.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdul/5priv/leetCode/removeDuplicatesFromSortedArrayII/obj/Debug/net7.0/removeDuplicatesFromSortedArrayII.AssemblyInfoInputs.cache
+/home/abdul/5priv/leetCode/removeDuplicatesFromSortedArrayII/obj/Debug/net7.0/removeDuplicatesFromSortedArrayII.AssemblyInfo.cs
+/home/abdul/5priv/leetCode/removeDuplicatesFromSortedArrayII/obj/Debug/net7.0/removeDuplicatesFromSortedArrayII.csproj.CoreCompileInputs.cache
+/home/abdul/5priv/leetCode/removeDuplicatesFromSortedArrayII/obj/Debug/net7.0/removeDuplicatesFromSortedArrayII.dll
+/home/abdul/5priv/leetCode/removeDuplicatesFromSortedArrayII/obj/Debug/net7.0/refint/removeDuplicatesFromSortedArrayII.dll
+/home/abdul/5priv/leetCode/removeDuplicatesFromSortedArrayII/obj/Debug/net7.0/removeDuplicatesFromSortedArrayII.pdb
+/home/abdul/5priv/leetCode/removeDuplicatesFromSortedArrayII/obj/Debug/net7.0/removeDuplicatesFromSortedArrayII.genruntimeconfig.cache
+/home/abdul/5priv/leetCode/removeDuplicatesFromSortedArrayII/obj/Debug/net7.0/ref/removeDuplicatesFromSortedArrayII.dll
