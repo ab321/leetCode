@@ -1,6 +1,6 @@
 # LeetCode
 
-## Solutions for [LeetCode](https://leetcode.com/problemset/) in C#
+## Solutions for [LeetCode](https://leetcode.com/problemset/) in C# & Java
 
 ### Author: 
 - name: Abdullah Aldesoky
