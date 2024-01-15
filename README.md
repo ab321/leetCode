@@ -1,6 +1,6 @@
 # LeetCode
 
-## Solutions for [LeetCode](https://leetcode.com/problemset/) in C# & Java
+## Solutions for [LeetCode](https://leetcode.com/problemset/) in C# & Java & SQL
 
 ### Author: 
 - name: Abdullah Aldesoky
@@ -26,4 +26,4 @@
 | 10 | 14.01.2024 | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                       | 00:14:34 | Easy   | [Java](./ransomNote/src/main/java/at/htl/leonding/Main.java)   | 16 ms	  | 45.68 MB |
 | 11 | 15.01.2024 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                     | 00:33:55 | Medium | [Java](./rotateArray/src/main/java/org/example/Main.java)      | 2 ms	   | 56.95 MB |
 | 12 | 15.01.2024 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                       | 00:02:32 | Easy   | [Java](./lengthOfLastWord/src/main/java/org/example/Main.java) | 8 ms	   | 45.00 MB |
-
+| 13 | 15.01.2024 | [Recyclable And Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)               | 00:00:16 | Easy   | [SQL](./recyclableAndLowFatProducts/Solution.sql)              | 966 ms	 | -        |
