@@ -1,6 +1,6 @@
 # LeetCode
 
-## Solutions for [LeetCode](https://leetcode.com/problemset/) in C# & Java & SQL
+## Solutions for [LeetCode](https://leetcode.com/problemset/)  (C#, Java, TypeScript, SQL)
 
 ### Author: 
 - name: Abdullah Aldesoky
@@ -31,3 +31,4 @@
 | 15 | 15.01.2024 | [Big Countries](https://leetcode.com/problems/big-countries/)                                                   | < 00:01:00 | Easy   | [SQL](./mySQL/bigCountries/Solution.sql)                            | 480 ms	  | -        |
 | 16 | 15.01.2024 | [Article Views](https://leetcode.com/problems/article-views/)                                                   | < 00:01:00 | Easy   | [SQL](./mySQL/articleViews/Solution.sql)                            | 649 ms	  | -        |
 | 17 | 15.01.2024 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)                                                 | < 00:01:00 | Easy   | [SQL](./mySQL/invalidTweets/Solution.sql)                           | 1186 ms	 | -        |
+| 18 | 16.01.2024 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                 | 00:05:12   | Easy   | [TypeScript](./typeScript/searchInsertPosition/Solution.ts)         | 51 ms	   | 44.40 MB |
