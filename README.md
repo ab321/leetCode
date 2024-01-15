@@ -24,4 +24,5 @@
 | 8  | 12.01.2024 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)       | 00:04:19 | Easy   | [C#](./removeDuplicatesfromSortedArray/Program.cs)           | 122 ms	 | 50.00 MB |
 | 9  | 12.01.2024 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | 00:10:19 | Medium | [C#](./removeDuplicatesFromSortedArrayII/Program.cs)         | 108 ms	 | 47.30 MB |
 | 10 | 14.01.2024 | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                       | 00:14:34 | Easy   | [Java](./ransomNote/src/main/java/at/htl/leonding/Main.java) | 16 ms	  | 45.68 MB |
+| 11 | 15.01.2024 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                     | 00:33:55 | Medium | [Java](./rotateArray/src/main/java/org/example/Main.java)    | 2 ms	   | 56.95 MB |
 
