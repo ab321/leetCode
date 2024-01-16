@@ -11,7 +11,7 @@
 
 ## Runtime & Memory of Solutions
 
-<mark>*</mark> BEATS 100%!
+<mark>* :</mark> BEATS 100%!
 
 | #  | Date       | Title                                                                                                           | Time       | Level  | Solution                                                                       | Runtime     | Memory   |
 |----|------------|-----------------------------------------------------------------------------------------------------------------|------------|--------|--------------------------------------------------------------------------------|-------------|----------|
@@ -35,8 +35,8 @@
 | 17 | 15.01.2024 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)                                                 | < 00:01:00 | Easy   | [SQL](./mySQL/invalidTweets/Solution.sql)                                      | 1186 ms	    | -        |
 | 18 | 16.01.2024 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                 | 00:05:12   | Easy   | [TypeScript](./typeScript/searchInsertPosition/Solution.ts)                    | 51 ms	      | 44.40 MB |
 | 19 | 16.01.2024 | [Insert Delete Getrandom O1](https://leetcode.com/problems/insert-delete-getrandom-o1/)                         | 00:17:57   | Medium | [Java](./java/insertDeleteGetRandomO1/src/main/java/IDG/O1/RandomizedSet.java) | 212 ms	     | 92.50 MB |
-| 20 | 16.01.2024 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)                                       | 00:00:25   | Medium | [Java](./java/divideTwoIntegers/src/main/java/org/example/Main.java)           | <mark>0 ms	 | 40.83 MB |
+| 20 | 16.01.2024 | [*Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)                                      | 00:00:25   | Medium | [Java](./java/divideTwoIntegers/src/main/java/org/example/Main.java)           | <mark>0 ms	 | 40.83 MB |
 | 21 | 16.01.2024 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                           | -          | Easy   | [Java](./java/validParentheses/src/main/java/org/example/Main.java)            | 1 ms	       | 41.84 MB |
-| 22 | 16.01.2024 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                               | 00:12:26   | Easy   | [Java](./java/reverseInteger/src/main/java/org/example/Main.java)              | <mark>0 ms	 | 40.46 MB |
+| 22 | 16.01.2024 | [*Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                              | 00:12:26   | Easy   | [Java](./java/reverseInteger/src/main/java/org/example/Main.java)              | <mark>0 ms	 | 40.46 MB |
 
 
