@@ -38,8 +38,8 @@ public class Main {
             }
         }
 
-        String ans[] = new String[list.size()];
-        list.toArray(ans);
-        return ans;
+        String result[] = new String[list.size()];
+        list.toArray(result);
+        return result;
     }
 }
