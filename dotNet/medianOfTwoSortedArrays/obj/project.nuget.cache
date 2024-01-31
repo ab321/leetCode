@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "WaWunHU305gkAcf/WEIV2T+98s2mGA+7tba+lOCohzKrhm2oI9gpuCO2WGLvEiZH6JYv69dBZyjhrWcyFTN/PQ==",
+  "dgSpecHash": "CYu4RgIzS+9y6SMBEJo11ftXhlN65gJtN59FMBAKLypp2fsLVt4aBkJaUd3a8NACTOl5L2Vyxs9vuOUgbfst2g==",
   "success": true,
-  "projectFilePath": "/home/abdul/5priv/leetCode/medianOfTwoSortedArrays/medianOfTwoSortedArrays.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/abdul/5priv/leetCode/dotNet/medianOfTwoSortedArrays/medianOfTwoSortedArrays.csproj",
+  "expectedPackageFiles": [
+    "/home/abdul/.nuget/packages/microsoft.netcore.app.ref/7.0.12/microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
+    "/home/abdul/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.12/microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512",
+    "/home/abdul/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.12/microsoft.netcore.app.host.linux-x64.7.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

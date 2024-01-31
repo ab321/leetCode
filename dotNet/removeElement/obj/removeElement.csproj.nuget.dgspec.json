@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/abdul/5priv/leetCode/removeElement/removeElement.csproj": {}
+    "/home/abdul/5priv/leetCode/dotNet/removeElement/removeElement.csproj": {}
   },
   "projects": {
-    "/home/abdul/5priv/leetCode/removeElement/removeElement.csproj": {
+    "/home/abdul/5priv/leetCode/dotNet/removeElement/removeElement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/abdul/5priv/leetCode/removeElement/removeElement.csproj",
+        "projectUniqueName": "/home/abdul/5priv/leetCode/dotNet/removeElement/removeElement.csproj",
         "projectName": "removeElement",
-        "projectPath": "/home/abdul/5priv/leetCode/removeElement/removeElement.csproj",
+        "projectPath": "/home/abdul/5priv/leetCode/dotNet/removeElement/removeElement.csproj",
         "packagesPath": "/home/abdul/.nuget/packages/",
-        "outputPath": "/home/abdul/5priv/leetCode/removeElement/obj/",
+        "outputPath": "/home/abdul/5priv/leetCode/dotNet/removeElement/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/abdul/.nuget/NuGet/NuGet.Config"
@@ -48,12 +48,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.12, 7.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[7.0.12, 7.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.12, 7.0.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100-rc.2.23502.2/RuntimeIdentifierGraph.json"
         }
       }
     }

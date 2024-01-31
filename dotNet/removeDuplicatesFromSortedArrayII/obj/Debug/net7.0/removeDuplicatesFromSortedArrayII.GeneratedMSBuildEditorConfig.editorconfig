@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = removeDuplicatesFromSortedArrayII
-build_property.ProjectDir = /home/abdul/5priv/leetCode/removeDuplicatesFromSortedArrayII/
+build_property.ProjectDir = /home/abdul/5priv/leetCode/dotNet/removeDuplicatesFromSortedArrayII/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/bhFu6354ftxFPD8rQCrfgGPcFRyHz3AEDMTrsJFAjIKVhV/QCgGcrBKNRxV0ObUiAEXB/aDHjd299FeSiz1kQ==",
+  "dgSpecHash": "T04z7TYw0wTt0bj4N110j+Yw3DXTNePdBTFGGAkYw12xdIiMrL8SX4/vhZKCC/65jBfI5hbuArSrg6ugqnwVaA==",
   "success": true,
-  "projectFilePath": "/home/abdul/5priv/leetCode/removeElement/removeElement.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/abdul/5priv/leetCode/dotNet/removeElement/removeElement.csproj",
+  "expectedPackageFiles": [
+    "/home/abdul/.nuget/packages/microsoft.netcore.app.ref/7.0.12/microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
+    "/home/abdul/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.12/microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512",
+    "/home/abdul/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.12/microsoft.netcore.app.host.linux-x64.7.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

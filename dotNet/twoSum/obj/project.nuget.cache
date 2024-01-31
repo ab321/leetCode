@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ailQkO7Ow2ZUzl5dwxqIhrLOAAFwJRdYcqxDvhIgm+WqmbTwr0vX9+o0kqRN7+v6XNtRxZ/43xiCLMW4++18/w==",
+  "dgSpecHash": "6eHRIb9i9VlGDP01pflxgMNPFvBnFwDGVxxFrsbm+OhTFDHkuLQwOhULVP+qBc4kGO/8+Rxsn8qUlO9HbtnZlg==",
   "success": true,
-  "projectFilePath": "/home/abdul/5priv/leetCode/twoSum/twoSum.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/abdul/5priv/leetCode/dotNet/twoSum/twoSum.csproj",
+  "expectedPackageFiles": [
+    "/home/abdul/.nuget/packages/microsoft.netcore.app.ref/7.0.12/microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
+    "/home/abdul/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.12/microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512",
+    "/home/abdul/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.12/microsoft.netcore.app.host.linux-x64.7.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

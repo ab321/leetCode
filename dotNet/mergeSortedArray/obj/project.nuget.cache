@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fFnSUhZcgGNrQ0Z7UQcme8g+SjS9xY9feDWvoLqPxGyrmsCAyEskkgeQaKCM4XoR/Sf35IKBsJKs30cwY9jarA==",
+  "dgSpecHash": "02jw8Z7YYLmUbIz8NFVmsNUQ9+6+NHAVwQEAlj1JiAydakPq/ch6T1VFzZK9moaGSyzLvAqtYGcx3ffKa4HEmg==",
   "success": true,
-  "projectFilePath": "/home/abdul/5priv/leetCode/mergeSortedArray/mergeSortedArray.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/abdul/5priv/leetCode/dotNet/mergeSortedArray/mergeSortedArray.csproj",
+  "expectedPackageFiles": [
+    "/home/abdul/.nuget/packages/microsoft.netcore.app.ref/7.0.12/microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
+    "/home/abdul/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.12/microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512",
+    "/home/abdul/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.12/microsoft.netcore.app.host.linux-x64.7.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

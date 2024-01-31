@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "v1B0dUyV+8OqP+kHO9mv2YnRPaX+APVgWS/OCTZPaAUrI+WQ/7YH79BtP3lTSOrwKTRDZpAtFpUcD2BehdyacA==",
+  "dgSpecHash": "RB8fWDOGaXv7gSDUYfubeHo3QOICiNWT8V3cOQ064dYIKbfKKmqYjgXKGh+kffTmS3Fibo3cOAIWuNePBMtf/Q==",
   "success": true,
-  "projectFilePath": "/home/abdul/5priv/leetCode/romanToInteger/romanToInteger.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/abdul/5priv/leetCode/dotNet/romanToInteger/romanToInteger.csproj",
+  "expectedPackageFiles": [
+    "/home/abdul/.nuget/packages/microsoft.netcore.app.ref/7.0.12/microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
+    "/home/abdul/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.12/microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512",
+    "/home/abdul/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.12/microsoft.netcore.app.host.linux-x64.7.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

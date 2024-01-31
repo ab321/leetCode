@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "eXQqz+IjXkLeC03djBwMbhX1VmG5qj/1p+W6r0CAtX11YDkLcOHla5FLeM3jk7fye4V6dmfLgke6+C+uvZArAQ==",
+  "dgSpecHash": "AWyA8+gtEjUcQLkx1Umho3SXM4mUx0OuV904OyJYrh3YSwf28xOV8tleafJ4gBU2LbCKVxIEo2zEwWzi9+FVUw==",
   "success": true,
-  "projectFilePath": "/home/abdul/5priv/leetCode/removeDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/abdul/5priv/leetCode/dotNet/removeDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.csproj",
+  "expectedPackageFiles": [
+    "/home/abdul/.nuget/packages/microsoft.netcore.app.ref/7.0.12/microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
+    "/home/abdul/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.12/microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512",
+    "/home/abdul/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.12/microsoft.netcore.app.host.linux-x64.7.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
